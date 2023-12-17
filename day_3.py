@@ -5,7 +5,9 @@ print("No I don't think that", number, "is a", group, "of", thing,". That's just
 yourName = input("Name: ")
 whatYear = input("What year is it?: ")
 print(yourName, "thinks it is", whatYear)
+print()
 print("----Next code start here----")
+print()
 print("=== Your Song Generator ===")
 print("""You'll be asked a bunch of questions
 then we'll make you up an amazing
@@ -19,8 +21,9 @@ name = input("what is your name?: ")
 print()
 print("There was a person called", name)
 print("Who did something cool like", thing, "at the wonderful", place, "where you'll find me", rhyme)
+print()
 print("----Next code start here----")
-
+print()
 food = input("Name a type of food: ")
 plant = input("Name a plant: ")
 cookingType = input("What is a way to cook something?")
