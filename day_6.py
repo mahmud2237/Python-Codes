@@ -5,6 +5,10 @@ if username == "mahmud" and password == "pass":
   print("Welcome Mahmud!")
 elif username == "mim" and password == "mimi":
   print("Welcome Mim!")
+elif username == "karim" and password == "karim":
+  print("Welcome Karim!")
+elif username == "bill" and password == "bill":
+  print("Welcome Bill!")
 else:
   print("Go Away!")
 
