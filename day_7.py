@@ -5,7 +5,7 @@ Glasses = input("Does someone wear glasses?")
 if Glasses == "yes":
         print("Correct!")
 else:
-	print("Wrong!")
+        print("Wrong!")
 	whoGlasses = input("And who wear glasses?")
 	if whoGlasses == "leonard":
 		print("You got it")
