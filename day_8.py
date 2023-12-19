@@ -1,11 +1,11 @@
-name = input("What is your name? ")
+name = input("What is your name?: ")
 print("Hello ", name,"!")
 #ask current day of the weak
-day = input("What day of the weak is it? ")
+day = input("What day of the weak is it?: ")
 #ask favorite things
-fav1 = input("What is your favorite thing? ")
-fav2 = input("What is your second favorite thing? ")
-fav3 = input("What is your third favorite thing? ")
+fav1 = input("What is your first favorite thing?: ")
+fav2 = input("What is your second favorite thing?: ")
+fav3 = input("What is your third favorite thing?: ")
 print("Your favorite things are", fav1, fav2, fav3)
 if name == "Dave" or name == "dave":
   print("Goodjob Dave")
